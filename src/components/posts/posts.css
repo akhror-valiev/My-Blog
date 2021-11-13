@@ -1,0 +1,7 @@
+.posts {
+    /* vertikal holtdan gorizantalga keltriramiz bu code orqali*/
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 25px;
+}
